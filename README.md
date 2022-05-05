@@ -1,1 +1,2 @@
-# store-pickup-for-magento-2
+Magento 2 Ajax Cart Extension by Magetop
+Magento 2 Ajax Cart Extension by Magetop offers the main function of adding products to the cart via an AJAX pop-up. It significantly improves the user experience by allowing customers to add any product type to the cart right from the product list page. They no longer have to visit each product page, especially for products with many options such as configurable products, grouped products, and bundle products.
