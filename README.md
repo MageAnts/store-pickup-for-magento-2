@@ -1,0 +1,1 @@
+# store-pickup-for-magento-2
