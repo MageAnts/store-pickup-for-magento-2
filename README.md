@@ -1,2 +1,2 @@
 
-<a href="https://github.com/mageplaza/magento-2-security">Magento 2 security module</a>
+<a href="https://www.mageants.com/store-pickup-extension-for-magento-2.html">Magento 2 store pickup</a>
