@@ -3,7 +3,7 @@
 		<div class="content-wrapper">
 			<div class="content-inner">
 				<h2>Magento 2 Store Pickup extension</h2>
-				<p><strong>Magento 2 Store Pickup extension</strong> is very useful at the time of shipping and delivery as it allows the customers to select the nearest pickup option around the store.</p>
+				<p><strong><a href="https://www.mageants.com/store-pickup-extension-for-magento-2.html">Magento 2 Store Pickup extension</a></strong> is very useful at the time of shipping and delivery as it allows the customers to select the nearest pickup option around the store.</p>
 				<p>Magento 2 Store Pickup Extension helps the store owner increase the shopping convenience for the customers, which in turn helps boost sales. The plugin is very useful as it makes shipping and delivery more easily by choosing a convenient pickup location.</p>
 				<div class="features-wrapper">
 					<h3>Key Features</h3>
